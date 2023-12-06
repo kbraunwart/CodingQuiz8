@@ -20,4 +20,4 @@ character, and nDeletions remains the same.
 Before these first 2 characters in s are compared, the helper function checks to see if the end of the
 initial string has been reached and comparisons are no longer possible. This base case occurs when
 the length of s is less than or equal to 1 character, and at this point nDeletions can be returned since
-each character has been compared to the character 1 index to the left and 1 index to the right. 
+each character has been compared to the character 1 index to the left and 1 index to the right.
